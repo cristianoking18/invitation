@@ -1,5 +1,4 @@
-# invitation-website
-<!DOCTYPE html>
+# invitation
 <html lang="en">
 <head>
     <meta charset="UTF-8">
